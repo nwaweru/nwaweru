@@ -1,4 +1,8 @@
-### Hi there 👋
+# Ndirangu Waweru
+
+Welcome to my GitHub profile!
+
+I am a full stack web developer currently specializing in VueJS and Laravel.
 
 <!--
 **nwaweru/nwaweru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
